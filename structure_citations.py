@@ -1,6 +1,6 @@
 import os.path
 
-from grobid_client.grobid_client import GrobidClient
+from grobid_client_python.grobid_client.grobid_client import GrobidClient
 import gzip
 import json
 
